@@ -7,7 +7,6 @@
 ## ファイル
 
 - `japan_meteorological_stations_1950.csv` - 観測所データ（1,548件）
-- `japan_meteorological_stations_1950.geojson` - 同データのGeoJSON形式
 
 ## 出典
 
